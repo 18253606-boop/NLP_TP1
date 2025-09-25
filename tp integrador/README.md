@@ -42,7 +42,7 @@ OBJETIVOS: Identificar las palabras y temas más recurrentes por año Analizar l
 
 \- Análisis con Word Embeddings (spaCy)
 
-\- \[Técnica complementaria aplicada POSSentimentNER] excedio mis conocimientos y tiempo para aplicar dicha tecnica.
+\- \[Técnica complementaria aplicada] ANALISIS DE ENTIDADES
 
 
 
